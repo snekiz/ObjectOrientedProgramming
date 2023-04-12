@@ -2,19 +2,7 @@
 **Problem from: SDPT Solutions**
 Create a class **Student** that has **attributes**:
 
-**firstName
-
-lastName
-
-year
-
-course
-
-section
-
-midtermGrade
-
-finalGrade**
+**firstName, lastName, year, course, section, midtermGrade, finalGrade**
 
 Create a **Constructor** for the **class**
 Create the following **Object Methods** 
