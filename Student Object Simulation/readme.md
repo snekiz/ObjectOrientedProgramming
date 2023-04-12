@@ -2,13 +2,15 @@
 **Problem from: SDPT Solutions**
 Create a class **Student** that has **attributes**:
 
-**firstName, lastName, year, course, section, midtermGrade, finalGrade**
+firstName, lastName, year, course, section, midtermGrade, finalGrade
 
 Create a **Constructor** for the **class**
 Create the following **Object Methods** 
->showStudent()
+
+**showStudent()**
 shows the students Fullname, Course, Year and Section
->computeGrade()
+
+**computeGrade()**
 get the Average of midterm and final grade and outputs thier average and their standing:
 Above 100 = Invalid Grade
 98-100 = With Highest Honors
