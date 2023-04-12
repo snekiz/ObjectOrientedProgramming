@@ -4,10 +4,10 @@ Create a class **Student** that has **attributes**:
 
 firstName, lastName, year, course, section, midtermGrade, finalGrade
 
+_______________________________________________________________________________________
 Create a **Constructor** for the **class**
 Create the following **Object Methods** 
 
-_______________________________________________________________________________________
 **showStudent()**
 shows the students Fullname, Course, Year and Section
 
