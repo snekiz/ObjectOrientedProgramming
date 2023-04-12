@@ -1,7 +1,7 @@
                                                         **Student Object Simulation**
 **Problem from: SDPT Solutions**
 Create a class **Student** that has **attributes**:
->firtName
+>firstName
 >lastName
 >year
 >course
