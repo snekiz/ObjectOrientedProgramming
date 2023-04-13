@@ -1,0 +1,5 @@
+package Multiple;
+
+interface Red {
+    
+}
